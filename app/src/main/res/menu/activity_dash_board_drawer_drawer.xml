@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/rate_us_layout"
+            android:icon="@drawable/ic_rate_us"
+            android:title="Rate us" />
+        <item
+            android:id="@+id/feedback_layout"
+            android:icon="@drawable/ic_feedback"
+            android:title="Feed back" />
+        <item
+            android:id="@+id/private_policy_layout"
+            android:icon="@drawable/ic_privacy_policy"
+            android:title="Context Policy" />
+
+    </group>
+
+
+</menu>

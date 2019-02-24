@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context=".views.activity.DashBoardDrawerActivity"
+        tools:showIn="@layout/app_bar_dash_board_drawer">
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            ads:layout_constraintBottom_toTopOf="@+id/myTabs"
+            ads:layout_constraintTop_toTopOf="parent">
+
+        </android.support.v4.view.ViewPager>
+
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/myTabs"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/windowBackground"
+            ads:layout_constraintBottom_toTopOf="@+id/trigger_fragment_ad_id"
+            app:tabBackground="@color/white"
+            app:tabIndicatorColor="@color/colorPrimary" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/trigger_fragment_ad_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/admob_banner_ad_unit"
+            ads:layout_constraintBottom_toBottomOf="parent"
+            ads:layout_constraintEnd_toEndOf="parent"
+            ads:layout_constraintStart_toStartOf="parent" />
+
+
+    </android.support.constraint.ConstraintLayout>
+</layout>

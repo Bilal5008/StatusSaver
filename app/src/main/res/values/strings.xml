@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">StatusSaver</string>
+
+    <string name="header">Status Saver</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="status">Status</string>
+    <string name="favorites">Favourites</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="ok">OK</string>
+    <string name="repost">Repost</string>
+    <string name="delete">Delete</string>
+    <string name="about">About Us</string>
+    <string name="rate">Rate Us</string>
+    <string name="more_apps">More Apps</string>
+    <string name="Context">Context Policy</string>
+    <string name="share_with">Share via</string>
+    <string name="shared_from">Shared From</string>
+    <string name="drawerOpen">Drawer Open</string>
+    <string name="drawerClose">Drawer Close</string>
+
+
+    <string name="exit_app">Exit Application</string>
+    <string name="added_in_favorite">Added to Favourites</string>
+    <string name="already_saved">Already Saved</string>
+    <string name="no_status">No Status Found</string>
+    <string name="no_permission">Permission not granted!</string>
+    <string name="no_records">Open some status in WhatsApp and visit back here</string>
+    <string name="want_to_exit">Are you sure you want to exit the application?</string>
+    <string name="share_title">Check out the most advanced StatusSaver with amazing Features.</string>
+    <string name="copyright_text" translatable="false">Copyrights 2018 by Local App Store</string>
+
+
+    <string name="npa" translatable="false">npa</string>
+    <string name="publisher_id" translatable="false">pub-7883837684925648</string>
+    <string name="ads_app_id" translatable="false">ca-app-pub-7566183559832561~8242406580</string>
+    <string name="banner_ad_id">ca-app-pub-7566183559832561/7169121772</string>
+    <string name="interstitial_ad_id">ca-app-pub-7566183559832561/1306297297</string>
+    <string name="native_ad_unit" translatable="false">ca-app-pub-7883837684925648/9125303568</string>
+    <string name="rewarded_video_ad_id" translatable="false">ca-app-pub-7883837684925648/1597205904</string>
+    <string name="press_again_to_exit">Press again to Exit</string>
+
+    <string name="admob_interstitial_ad_unit" translatable="false">ca-app-pub-4636095240330682/7857502392</string>
+    <string name="app_id" translatable="false">ca-app-pub-4636095240330682~9142771700</string>
+    <string name="admob_native_ad_unit" translatable="false">ca-app-pub-6412217023250030/6695842507</string>
+    <string name="admob_banner_ad_unit" translatable="false">ca-app-pub-4636095240330682/1479796308</string>
+    <string name="ad">Ad</string>
+    <string name="app_exit">Are you sure you want to exit?</string>
+    <string name="menu_rate_us">Do you like to rateus?</string>
+    <string name="text_no">No</string>
+    <string name="text_yes">Yes</string>
+    <string name="title_activity_dash_board_drawer">DashBoardDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">StatusSaver</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="uhoh">Uh-oh…</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="how_can_we_improve">How can we improve the experience?</string>
+    <string name="enjoy_our_app">Enjoying our app? If its helpful for you please spread the word by rating us!</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="performance">Performance</string>
+    <string name="design">Design</string>
+
+
+    <string name="type_your_feedback">Type your feedback…</string>
+    <string name="personal_feedback">\nPersonal Feedback:\n</string>
+    <string name="rating_dialog_header">Rating Dialog Header</string>
+    <string name="functionality">By improving Functionality</string>
+    <string name="improve_design">Need to improve the Design.\n</string>
+
+
+    <string name="provide_valid_feedback">Please provide a valid Feedback!</string>
+    <string name="improve_functionality">Need to improve the Functionality.\n</string>
+    <string name="improve_performance">Need to improve the Performance.\n</string>
+    <string name="select_app">Select app</string>
+
+
+    <string name="rate_us">Rate us</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="arrow_up">Arrow Up Icon</string>
+
+</resources>
